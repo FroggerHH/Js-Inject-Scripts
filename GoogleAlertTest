@@ -1,0 +1,7 @@
+// @name Custom Alert test
+// @description Displays an alert dialog on google
+// @author JustAFrogger
+// @version 1.0
+// @match *://*google.*/*
+
+alert("Js Injector works");
